@@ -1,0 +1,5 @@
+uk/bss/store/model/Product.class
+uk/bss/store/model/Order.class
+uk/bss/store/model/OfferType.class
+uk/bss/store/model/Offer.class
+uk/bss/store/model/MeasureUnit.class

@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="BSSStore" />
+        <module name="entity" />
         <module name="lambdas-book-examples" />
+        <module name="model" />
         <module name="PriceBasket" />
+        <module name="service" />
       </profile>
     </annotationProcessing>
   </component>

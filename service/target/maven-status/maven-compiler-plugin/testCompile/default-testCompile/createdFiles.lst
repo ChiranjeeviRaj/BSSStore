@@ -1,0 +1,4 @@
+test/AppConfig.class
+test/OfferFactoryTest.class
+test/BSSStoreServiceUtilTest.class
+test/BSSStoreServiceImplTest.class
